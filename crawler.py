@@ -315,7 +315,7 @@ async def main():
     if len(sys.argv) > 1:
         base_url = sys.argv[1]
     else:
-        base_url = "https://www.henfieldstorage.co.uk/"
+        base_url = "your_website_url"
     
     # Create a log directory
     LOG_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "crawl_logs")
