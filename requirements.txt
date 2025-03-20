@@ -1,0 +1,6 @@
+aiohttp
+asyncio
+requests
+python-dotenv
+crawl4ai
+lxml
